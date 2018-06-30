@@ -1,0 +1,11 @@
+C:\Users\ro\Documents\Visual Studio 2017\Projects\signalBot\bin\Debug\netcoreapp2.0\signalBot.deps.json
+C:\Users\ro\Documents\Visual Studio 2017\Projects\signalBot\bin\Debug\netcoreapp2.0\signalBot.runtimeconfig.json
+C:\Users\ro\Documents\Visual Studio 2017\Projects\signalBot\bin\Debug\netcoreapp2.0\signalBot.runtimeconfig.dev.json
+C:\Users\ro\Documents\Visual Studio 2017\Projects\signalBot\bin\Debug\netcoreapp2.0\signalBot.dll
+C:\Users\ro\Documents\Visual Studio 2017\Projects\signalBot\obj\Debug\netcoreapp2.0\signalBot.csprojAssemblyReference.cache
+C:\Users\ro\Documents\Visual Studio 2017\Projects\signalBot\obj\Debug\netcoreapp2.0\signalBot.csproj.CoreCompileInputs.cache
+C:\Users\ro\Documents\Visual Studio 2017\Projects\signalBot\obj\Debug\netcoreapp2.0\signalBot.AssemblyInfoInputs.cache
+C:\Users\ro\Documents\Visual Studio 2017\Projects\signalBot\obj\Debug\netcoreapp2.0\signalBot.AssemblyInfo.cs
+C:\Users\ro\Documents\Visual Studio 2017\Projects\signalBot\bin\Debug\netcoreapp2.0\signalBot.pdb
+C:\Users\ro\Documents\Visual Studio 2017\Projects\signalBot\obj\Debug\netcoreapp2.0\signalBot.dll
+C:\Users\ro\Documents\Visual Studio 2017\Projects\signalBot\obj\Debug\netcoreapp2.0\signalBot.pdb
