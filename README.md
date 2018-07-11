@@ -7,6 +7,9 @@
 * Создана база данных SQLite
 * Черновая реализация алгоритмов поиска «свечных паттернов»
 * Черновая реализация алгоритма мониторинга
+
+![](https://github.com/StelX/signalBot/blob/master/classDia.PNG "")
+
 ## Что использовано
 * C# 
 * .NET Core Console app
